@@ -10,6 +10,9 @@ Github : https://github.com/Willysmile
 
 - Opquast - Maitrise de la qualité en projet Web
 
+- Tosa Photoshop (en cours) 
+
+
 ### Outils utilisés
 
 #### IDE :
